@@ -4,8 +4,8 @@ INPUT /usr/local/texlive/2026/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2026/texmf.cnf
 INPUT /usr/local/texlive/2026/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2026/texmf-var/web2c/euptex/platex.fmt
-INPUT main.tex
-OUTPUT out/main.log
+INPUT main_2026-03-29.tex
+OUTPUT out/main_2026-03-29.log
 INPUT ./ipsj.cls
 INPUT ipsj.cls
 INPUT /usr/local/texlive/2026/texmf-dist/tex/latex/graphics/color.sty
@@ -49,10 +49,10 @@ INPUT /usr/local/texlive/2026/texmf-dist/tex/latex/booktabs/booktabs.sty
 INPUT /usr/local/texlive/2026/texmf-dist/tex/latex/booktabs/booktabs.sty
 INPUT /usr/local/texlive/2026/texmf-dist/tex/latex/l3backend/l3backend-dvips.def
 INPUT /usr/local/texlive/2026/texmf-dist/tex/latex/l3backend/l3backend-dvips.def
-INPUT out/main.aux
-INPUT out/main.aux
-INPUT out/main.aux
-OUTPUT out/main.aux
+INPUT out/main_2026-03-29.aux
+INPUT out/main_2026-03-29.aux
+INPUT out/main_2026-03-29.aux
+OUTPUT out/main_2026-03-29.aux
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/ptex-fonts/standard/tmin10.tfm
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/ptex-fonts/jis/jis.tfm
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
@@ -168,7 +168,7 @@ INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/adobe/times/ptmr7t.tfm
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/ptex-fonts/standard/tmin10.tfm
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/ptex-fonts/jis/jis.tfm
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
-OUTPUT out/main.dvi
+OUTPUT out/main_2026-03-29.dvi
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/ptex-fonts/standard/tgoth10.tfm
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/ptex-fonts/jis/jisg.tfm
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
@@ -194,4 +194,4 @@ INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/public/latex-fonts/lasy9.tfm
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/public/latex-fonts/lasy6.tfm
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/public/latex-fonts/lasy5.tfm
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmti9.tfm
-INPUT out/main.aux
+INPUT out/main_2026-03-29.aux

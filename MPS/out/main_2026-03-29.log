@@ -1,10 +1,10 @@
-This is e-upTeX, Version 3.141592653-p4.1.2-u2.02-251130-2.6 (utf8.euc) (TeX Live 2026) (preloaded format=platex 2026.4.4)  6 APR 2026 19:08
+This is e-upTeX, Version 3.141592653-p4.1.2-u2.02-251130-2.6 (utf8.euc) (TeX Live 2026) (preloaded format=platex 2026.4.4)  6 APR 2026 19:09
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**main.tex
-(./main.tex
+**main_2026-03-29.tex
+(./main_2026-03-29.tex
 pLaTeX2e <2023-02-14>+1, based on
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-03-20>
@@ -137,8 +137,8 @@ File: l3backend-dvips.def 2026-02-18 L3 backend support: dvips
 \g__pdfannot_backend_int=\count299
 \g__pdfannot_backend_link_int=\count300
 \g__pdfannot_backend_link_sf_int=\count301
-) (out/main.aux)
-\openout1 = `main.aux'.
+) (out/main_2026-03-29.aux)
+\openout1 = `main_2026-03-29.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
 LaTeX Font Info:    ... okay on input line 25.
@@ -199,23 +199,26 @@ File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 
 ]
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <9.61035> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 115.
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 105.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <9.61035> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 115.
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 105.
 [2]
 File: vae-gan-architecture-clean.jpeg Graphic file (type bmp)
 <vae-gan-architecture-clean.jpeg>
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <8.13184> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 138.
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 156.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <8.13184> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 138.
-LaTeX Font Info:    Calculating math sizes for size <8.8711> on input line 189.
-[3] [4] [5]
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 156.
+[3] [4]
+LaTeX Font Info:    Calculating math sizes for size <8.8711> on input line 235.
+[5]
 LaTeX Font Info:    Font shape `JT1/mc/m/it' in size <8.8711> not available
-(Font)              Font shape `JT1/mc/m/n' tried instead on input line 351.
+(Font)              Font shape `JT1/mc/m/n' tried instead on input line 342.
 LaTeX Font Info:    Font shape `JY1/mc/m/it' in size <8.8711> not available
-(Font)              Font shape `JY1/mc/m/n' tried instead on input line 351.
-[6] (out/main.aux)
+(Font)              Font shape `JY1/mc/m/n' tried instead on input line 342.
+[6] [7
+
+] (out/main_2026-03-29.aux)
  ***********
 pLaTeX2e <2023-02-14>+1, based on
 LaTeX2e <2025-11-01>
@@ -223,12 +226,12 @@ L3 programming layer <2026-03-20>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 2153 strings out of 467995
- 34548 string characters out of 5431126
- 455827 words of memory out of 5000000
- 31246 multiletter control sequences out of 15000+600000
+ 2151 strings out of 467995
+ 34663 string characters out of 5431126
+ 453835 words of memory out of 5000000
+ 31244 multiletter control sequences out of 15000+600000
  661548 words of font info for 190 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
- 57i,11n,65p,738b,483s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,10n,65p,577b,568s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on out/main.dvi (6 pages, 53380 bytes).
+Output written on out/main_2026-03-29.dvi (7 pages, 55600 bytes).
