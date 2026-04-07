@@ -1,10 +1,11 @@
 # Fdb version 4
-["dvipdf"] 1775470102.89268 "out/main.dvi" "out/main.pdf" "out/main" 1775470104.12688 0
-  "out/main.dvi" 1775470102.83473 53380 4673deaf2caa1925c2192128e487ae95 "latex"
+["dvipdf"] 1775558635.37963 "out/main.dvi" "out/main.pdf" "out/main" 1775558635.69471 0
+  "out/main.dvi" 1775558635.36601 53380 00b8d155c388ab99a8bbf8fd504d8263 "latex"
   (generated)
   "out/main.pdf"
   (rewritten before read)
-["latex"] 1775470101.1483 "main.tex" "out/main.dvi" "main" 1775470104.12506 0
+["latex"] 1775558634.66731 "/Users/shoudai/GitHub/LUTP-VAEGAN-Infer/MPS/main.tex" "out/main.dvi" "main" 1775558635.69417 0
+  "/Users/shoudai/GitHub/LUTP-VAEGAN-Infer/MPS/main.tex" 1775479195.92525 34335 e5e3cc92f878dbc96d7240f62cdfb006 ""
   "/usr/local/texlive/2026/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2026/texmf-dist/fonts/tfm/adobe/times/ptmr7t.tfm" 1136768653 2124 2601a75482e9426d33db523edf23570a ""
   "/usr/local/texlive/2026/texmf-dist/fonts/tfm/ptex-fonts/jis/jis.tfm" 1463434352 468 53f854284f6afa6c36aaa2d1090ecc12 ""
@@ -62,13 +63,13 @@
   "/usr/local/texlive/2026/texmf-dist/tex/latex/psnfss/ot1ptm.fd" 1137110629 961 15056f4a61917ceed3a44e4ac11fcc52 ""
   "/usr/local/texlive/2026/texmf-dist/tex/latex/txfonts/omstxsy.fd" 1137111002 329 6ac7e19535b9f1d64e4d8e3f77dc30a3 ""
   "/usr/local/texlive/2026/texmf-dist/web2c/texmf.cnf" 1770478701 43630 e9fa012910491fe5ae08a72c3c2997a7 ""
-  "/usr/local/texlive/2026/texmf-var/web2c/euptex/platex.fmt" 1775295593 3652754 435b3b7ba6926ead6e1125a040376682 ""
-  "/usr/local/texlive/2026/texmf.cnf" 1775295451.84777 577 648cd9f92f9c0eac486f4c71c85cfbbe ""
-  "ipsj.cls" 1774905411.73947 136341 93124f5c22c82002dcb0f1268f74410a ""
-  "ipsjtech.sty" 1774905411.73965 6218 e752553af768fcae894e19205d3a7d42 ""
-  "main.tex" 1774905411.73994 34335 e5e3cc92f878dbc96d7240f62cdfb006 ""
-  "out/main.aux" 1775470102.83342 2936 283df06122d0ea4ef32a76b05fb8b3c2 "latex"
-  "vae-gan-architecture-clean.jpeg" 1774905411.74261 93713 e76e71538b6180c3ffbffbd53b932f91 ""
+  "/usr/local/texlive/2026/texmf-var/web2c/euptex/platex.fmt" 1775491846 3652755 659e3a440cee8cbb2ebbcc840c59e58f ""
+  "/usr/local/texlive/2026/texmf.cnf" 1775491742.80058 577 648cd9f92f9c0eac486f4c71c85cfbbe ""
+  "ipsj.cls" 1775479195.92489 136341 93124f5c22c82002dcb0f1268f74410a ""
+  "ipsjtech.sty" 1775479195.92508 6218 e752553af768fcae894e19205d3a7d42 ""
+  "main.tex" 1775479195.92525 34335 e5e3cc92f878dbc96d7240f62cdfb006 ""
+  "out/main.aux" 1775558635.36531 2936 283df06122d0ea4ef32a76b05fb8b3c2 "latex"
+  "vae-gan-architecture-clean.jpeg" 1775479195.92946 93713 e76e71538b6180c3ffbffbd53b932f91 ""
   (generated)
   "out/main.aux"
   "out/main.dvi"

@@ -4,7 +4,7 @@ INPUT /usr/local/texlive/2026/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2026/texmf.cnf
 INPUT /usr/local/texlive/2026/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2026/texmf-var/web2c/euptex/platex.fmt
-INPUT main.tex
+INPUT /Users/shoudai/GitHub/LUTP-VAEGAN-Infer/MPS/main.tex
 OUTPUT out/main.log
 INPUT ./ipsj.cls
 INPUT ipsj.cls
